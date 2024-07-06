@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## My name is Lucy Wang, I like playing the piano.🥹
 <!--
 **Aelevenling/Aelevenling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
